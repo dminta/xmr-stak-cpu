@@ -111,9 +111,6 @@
     <ClInclude Include="..\..\crypto\skein_port.h">
       <Filter>Header Files\crypto</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\libmicrohttpd\microhttpd.h">
-      <Filter>Header Files\libmicrohttpd</Filter>
-    </ClInclude>
     <ClInclude Include="..\..\rapidjson\allocators.h">
       <Filter>Header Files\rapidjson</Filter>
     </ClInclude>
@@ -218,6 +215,9 @@
     </ClInclude>
     <ClInclude Include="..\..\rapidjson\msinttypes\stdint.h">
       <Filter>Header Files\rapidjson\msinttypes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\libmicrohttpd-0.9.54-w32-bin\x86_64\VS2015\Release-static\microhttpd.h">
+      <Filter>Header Files\libmicrohttpd</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
