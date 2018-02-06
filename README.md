@@ -1,3 +1,7 @@
+NOTE: This forked repository contains a VS2015 solution and Win32 build of libmicrohttpd library required to build xmr-stak-cpu on Windows. xmr-stak-cpu project is retired - you should upgrade to [xmr-stak](https://github.com/fireice-uk/xmr-stak).
+
+===
+
 # XMR-Stak-CPU - Monero mining software
 
 XMR-Stak is a universal Stratum pool miner. This is the CPU-mining version; there is also an [AMD GPU version](https://github.com/fireice-uk/xmr-stak-amd) and an [NVIDA GPU version](https://github.com/fireice-uk/xmr-stak-nvidia)
